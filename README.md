@@ -1,4 +1,4 @@
-**_提交规范: 'feat: update one/two/... 1,2,3,..._**
+**_提交规范: 'feat: update one/two/... 1,2,3,...'_**
 
 **code 记录**
 
